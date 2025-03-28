@@ -10,18 +10,6 @@ This is a simple flashcard application built using Python and Tkinter to help us
 - Random module for word selection
 - Event-driven programming with Tkinter buttons
 - Timers using `after` function for delayed execution
-# Flashcard App - Spanish to English
-
-This is a simple flashcard application built using Python and Tkinter to help users learn Spanish words with their English translations. The app randomly selects a Spanish word, displays it on a card, and then flips the card after a few seconds to reveal the English translation. Users can mark words as known or unknown, and the app keeps track of the words that need further review.
-
-## Features
-
-### Python Concepts Used
-- GUI programming with Tkinter
-- File handling with Pandas for CSV operations
-- Random module for word selection
-- Event-driven programming with Tkinter buttons
-- Timers using `after` function for delayed execution
 
 ### Program Features
 - Displays a Spanish word on a flashcard
